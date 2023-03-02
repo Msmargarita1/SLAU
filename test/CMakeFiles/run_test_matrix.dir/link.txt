@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_test_matrix.dir/test_matrix.cpp.o -o run_test_matrix  -lgtest -lgtest_main 
