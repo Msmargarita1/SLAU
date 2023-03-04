@@ -3,7 +3,7 @@
 
 test/CMakeFiles/run_test_matrix.dir/test_matrix.cpp.o: test/test_matrix.cpp \
   /usr/include/stdc-predef.h \
-  src/tri_diag_matrix.h \
+  src/CSR.h \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_algobase.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -460,8 +460,6 @@ test/CMakeFiles/run_test_matrix.dir/test_matrix.cpp.o: test/test_matrix.cpp \
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr-default.h:
 
-src/tri_diag_matrix.h:
-
 /usr/include/c++/11/ext/concurrence.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/siginfo_t.h:
@@ -588,6 +586,28 @@ src/tri_diag_matrix.h:
 
 /usr/include/gtest/internal/gtest-port-arch.h:
 
+/usr/include/stdc-predef.h:
+
+/usr/include/c++/11/bits/alloc_traits.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
+
+/usr/include/c++/11/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/11/cstdlib:
+
+/usr/include/c++/11/bit:
+
+/usr/include/c++/11/ext/numeric_traits.h:
+
+/usr/include/c++/11/bits/atomic_base.h:
+
+/usr/include/features.h:
+
+/usr/include/c++/11/bits/vector.tcc:
+
 test/test_matrix.cpp:
 
 /usr/include/c++/11/bits/atomic_lockfree_defines.h:
@@ -642,24 +662,6 @@ test/test_matrix.cpp:
 
 /usr/include/c++/11/streambuf:
 
-/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
-
-/usr/include/c++/11/bits/stl_iterator_base_types.h:
-
-/usr/include/c++/11/cstdlib:
-
-/usr/include/c++/11/bit:
-
-/usr/include/c++/11/ext/numeric_traits.h:
-
-/usr/include/c++/11/bits/atomic_base.h:
-
-/usr/include/features.h:
-
-/usr/include/c++/11/bits/vector.tcc:
-
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h:
@@ -691,10 +693,6 @@ test/test_matrix.cpp:
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
-
-/usr/include/stdc-predef.h:
-
-/usr/include/c++/11/bits/alloc_traits.h:
 
 /usr/include/c++/11/bits/functional_hash.h:
 
@@ -853,6 +851,8 @@ test/test_matrix.cpp:
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
 /usr/include/sched.h:
+
+src/CSR.h:
 
 /usr/include/wctype.h:
 

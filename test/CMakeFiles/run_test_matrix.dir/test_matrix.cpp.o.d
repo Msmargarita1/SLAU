@@ -1,7 +1,7 @@
 test/CMakeFiles/run_test_matrix.dir/test_matrix.cpp.o: \
  /home/margarita/SLAU/test/test_matrix.cpp /usr/include/stdc-predef.h \
- /home/margarita/SLAU/test/../src/tri_diag_matrix.h \
- /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
+ /home/margarita/SLAU/test/../src/CSR.h /usr/include/c++/11/vector \
+ /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \

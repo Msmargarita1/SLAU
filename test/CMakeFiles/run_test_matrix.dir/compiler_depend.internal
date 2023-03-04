@@ -4,7 +4,7 @@
 test/CMakeFiles/run_test_matrix.dir/test_matrix.cpp.o
  /home/margarita/SLAU/test/test_matrix.cpp
  /usr/include/stdc-predef.h
- /home/margarita/SLAU/src/tri_diag_matrix.h
+ /home/margarita/SLAU/src/CSR.h
  /usr/include/c++/11/vector
  /usr/include/c++/11/bits/stl_algobase.h
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h
