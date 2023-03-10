@@ -1,8 +1,0 @@
-/home/margarita/SLAU/CMakeFiles/edit_cache.dir
-/home/margarita/SLAU/CMakeFiles/rebuild_cache.dir
-/home/margarita/SLAU/src/CMakeFiles/SLAE.dir
-/home/margarita/SLAU/src/CMakeFiles/edit_cache.dir
-/home/margarita/SLAU/src/CMakeFiles/rebuild_cache.dir
-/home/margarita/SLAU/test/CMakeFiles/run_test_matrix.dir
-/home/margarita/SLAU/test/CMakeFiles/edit_cache.dir
-/home/margarita/SLAU/test/CMakeFiles/rebuild_cache.dir
