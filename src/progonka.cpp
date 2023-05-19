@@ -5,6 +5,7 @@
 std::vector<double> progonka(matrix* M, std::vector<double> d){
     std::vector<double> x;
 
+    
     int n = M->get_n();
     x.reserve(n);
     std::vector<double> p; p.reserve(n);
