@@ -11,7 +11,6 @@ TEST(Zedel, values){
     CSR<double> matrix = CSR<double>(values,cols,rows);
     std::vector<double> b = matrix*res;
     std::vector<double> x;
-    
     double tolerance = 0.0001;
     x = Zedel(matrix,b,tolerance);
 
