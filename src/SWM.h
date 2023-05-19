@@ -7,7 +7,6 @@
 #include "../tri_diag_matrix.h"
 
 class sMethod {
-    
 private:
     std::vector<double> svkoef;
     std::vector<std::vector<double>> tri_diag_matrix;
